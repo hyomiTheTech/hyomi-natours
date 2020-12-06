@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/hyomi-natours/static/js/main.f8f97f8d.chunk.js",
+    "main.js.map": "/hyomi-natours/static/js/main.f8f97f8d.chunk.js.map",
+    "runtime-main.js": "/hyomi-natours/static/js/runtime-main.75965024.js",
+    "runtime-main.js.map": "/hyomi-natours/static/js/runtime-main.75965024.js.map",
+    "static/js/2.26f3724b.chunk.js": "/hyomi-natours/static/js/2.26f3724b.chunk.js",
+    "static/js/2.26f3724b.chunk.js.map": "/hyomi-natours/static/js/2.26f3724b.chunk.js.map",
+    "static/js/3.afb35e23.chunk.js": "/hyomi-natours/static/js/3.afb35e23.chunk.js",
+    "static/js/3.afb35e23.chunk.js.map": "/hyomi-natours/static/js/3.afb35e23.chunk.js.map",
+    "index.html": "/hyomi-natours/index.html",
+    "static/js/2.26f3724b.chunk.js.LICENSE.txt": "/hyomi-natours/static/js/2.26f3724b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75965024.js",
+    "static/js/2.26f3724b.chunk.js",
+    "static/js/main.f8f97f8d.chunk.js"
+  ]
+}
